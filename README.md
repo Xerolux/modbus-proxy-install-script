@@ -1,4 +1,3 @@
-# modbus-proxy-install-script
 # Modbus-Proxy Setup Script
 
 Automatisches Setup-Script für Modbus-Proxy unter Debian/Ubuntu mit systemd Service.
