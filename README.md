@@ -5,7 +5,7 @@ Automatisches Setup-Script für Modbus-Proxy unter Debian/Ubuntu mit systemd Ser
 
 ## Übersicht
 
-Dieses Script installiert und konfiguriert automatisch einen Modbus TCP Proxy, der Modbus-Anfragen zwischen verschiedenen Netzwerk-Segmenten weiterleiten kann. Basierend auf der Anleitung von [blog.caina.de](https://blog.caina.de/2024/01/28/modbus-proxy-als-service-unter-debian12-mit-python3-11/).
+Dieses Script installiert und konfiguriert automatisch einen Modbus TCP Proxy, der Modbus-Anfragen zwischen verschiedenen Netzwerk-Segmenten weiterleiten kann.
 
 ## Features
 
@@ -308,7 +308,6 @@ Bei Problemen:
 ## Basierend auf
 
 - [Modbus-Proxy PyPI](https://pypi.org/project/modbus-proxy/)
-- [Blog-Anleitung von caina.de](https://blog.caina.de/2024/01/28/modbus-proxy-als-service-unter-debian12-mit-python3-11/)
 
 ## Lizenz
 
